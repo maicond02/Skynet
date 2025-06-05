@@ -1,0 +1,4 @@
+# Ignora qualquer pasta __pycache__ em todo o projeto
+__pycache__/
+**/__pycache__/
+app/config.py
